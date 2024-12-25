@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\Poluroslik M\Desktop\18\FileName.c(69,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Poluroslik M\Desktop\18\FileName.c(103,1): warning C4716: lab18task1: должна возвращать значение
+  Project6.vcxproj -> C:\Users\Poluroslik M\Desktop\18\x64\Debug\Project6.exe
